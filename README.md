@@ -12,3 +12,11 @@ chmod +x s3/*
 # deploy
 ./s3/deploy
 ```
+
+## Stuff
+
+Pop open your browser's inspector/console and
+
+```js
+HI();
+```
