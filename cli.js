@@ -15,6 +15,7 @@ var HI = (function () {
         '  HH     II     HH  \n',
         '  HH     II     HH  \n',
         '  HH     II     HH  \n',
+        '  HH     II     HH  \n',
         '  HH     II     HH  Hughes\n',
         '  HH     II     HH  Industries  \n',
         '  HH IIIIIIIIII HH  Ltd\n',
