@@ -1,2 +1,3 @@
 #! /bin/bash
-aws --profile rudenoise s3 sync ./ s3://hughesindustries.uk/ --exclude ".git/*" --exclude ".git*" --exclude "s3/*" --acl public-read
+#aws --profile rudenoise s3 sync ./ s3://hughesindustries.uk/ --exclude ".git/*" --exclude ".git*" --exclude "s3/*" --acl public-read
+aws --profile rudenoise s3 sync ./ s3://www.hughesindustries.uk/ --exclude ".git/*" --exclude ".git*" --exclude "s3/*" --acl public-read
